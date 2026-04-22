@@ -13,7 +13,7 @@ This is a Power Bi dashbord project based on Netflix Dataset.
 - Trend insights
 
 ## Dashboard Preview:
- ![Dashboard](Dashboard.png)
+ ![Dashboard](.png)
 
 
 ## Project Files:
