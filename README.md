@@ -15,6 +15,7 @@ This is a Power Bi dashbord project based on Netflix Dataset.
 ## Dashboard Preview:
  ![Dashboard](Dashboard.png)
 
+
 ## Project Files:
 - Netflix Dashboard PBIX file available above
 
